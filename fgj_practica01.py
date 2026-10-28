@@ -164,4 +164,3 @@ print("\nPor mes:\n", fin.groupby('mes').size().to_string())
 print(f"\nArchivos en ./{OUT}/")
 
 
-#""""""
