@@ -162,3 +162,6 @@ print("\nTop delitos financieros:\n", por_delito.head(8).to_string(index=False))
 print("\nTop alcaldías por tasa:\n", por_alc.sort_values('tasa_100k', ascending=False).head(16).to_string(index=False))
 print("\nPor mes:\n", fin.groupby('mes').size().to_string())
 print(f"\nArchivos en ./{OUT}/")
+
+
+#""""""
