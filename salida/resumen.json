@@ -1,0 +1,15 @@
+{
+  "carpetas_total_registros": 223163,
+  "carpetas_columnas": 21,
+  "carpetas_financieras": 33546,
+  "pct_financieras": 15.03,
+  "carpetas_hora_00_00": 3407,
+  "carpetas_sin_coordenadas": 12524,
+  "carpetas_alcaldia_fuera_de_16": 12567,
+  "carpetas_duplicadas_exactas": 0,
+  "rezago_mediana_dias_financieros": 5.0,
+  "victimas_total_registros": 234615,
+  "victimas_columnas": 22,
+  "victimas_financieras": 34237,
+  "victimas_edad_nula_o_invalida": 9697
+}
